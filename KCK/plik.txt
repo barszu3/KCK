@@ -1,0 +1,32 @@
+				INSTRUKCJA
+
+	Witaj w "Instrukcji Użytkowania Robota"
+
+	PORUSZANIE SIĘ:
+
+	Wydaj komendę "jedź" lub "idź", robot zapyta Cię dokładnie 
+	gdzie ma jechać oraz w którą stronę. Oczywiście podpowiedzi 
+	co do rozkazu kierunku nie udzielimy ;) kombinuj graczu.
+	
+	AKCJE:
+
+	Komenda "podnieś", "zabierz" lub "weź" może zostać wydana, 
+	jeśli robot stoi na polu zawierającym bombę. Następnie można
+	ją przewieźć na dowolne pole i "rozbroić" ;) Polecamy również
+	spróbować "wrzucić" ją do dziury.
+	
+	INNE:
+
+	Robot potrafi się przedstawić, jeśli go o to poprosisz :) 
+	możesz sie także z nim przywitać. Jest on dość rozolutny, 
+	by zrozumieć uśmiech :) 
+	
+	CO MAM ROBIĆ?:
+
+	Twoim zadaniem jest znalezienie i rozbrojenie trzech bomb
+	za pomocą robota. Na mapie znajdują się łącznie trzy lokacje,
+	oraz kilka niespodzianek :)
+	
+	POWODZENIA!
+	
+	
